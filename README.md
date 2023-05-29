@@ -7,6 +7,6 @@
      o planeta referente a implementação de uma pauta verde em todas as áreas.  
 - 📫 Você pode entrar em contato comigo pelo email: carlao0010@hotmail.com / Twitter: @Kadu_and_you / Linkedln: www.linkedin.com/in/carlos0010
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadu-da-Silva&langs_count=)](https://github.com/Kadu-da-Silva/readme)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-da-Silva&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadu-da-Silva&layout=donut)](https://github.com/Kadu-da-Silva/readme)
