@@ -7,4 +7,4 @@
      o planeta referente a implementação de uma pauta verde em todas as áreas.  
 - 📫 Você pode entrar em contato comigo pelo email: carlao0010@hotmail.com / Twitter: @Kadu_and_you / Linkedln: www.linkedin.com/in/carlos0010
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-da-Silva&show_icons=true&theme=dark)
