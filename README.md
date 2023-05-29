@@ -9,4 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-da-Silva&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadu-da-Silva&layout=donut)](https://github.com/Kadu-da-Silva/readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadu-da-Silva&layout=donut-vertical)](https://github.com/Kadu-da-Silva/readme)
