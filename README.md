@@ -6,3 +6,5 @@
 - 💞️ Espero um dia poder participar de um grande projeto e ajudar o planeta com isso. Faço parte do GreenpeaceBR e acredito que a tecnologia pode ajudar 
      o planeta referente a implementação de uma pauta verde em todas as áreas.  
 - 📫 Você pode entrar em contato comigo pelo email: carlao0010@hotmail.com / Twitter: @Kadu_and_you / Linkedln: www.linkedin.com/in/carlos0010
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-da-Silva)](https://github.com/Kadu-da-Silva/github-readme-stats)
