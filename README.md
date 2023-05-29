@@ -7,6 +7,11 @@
      o planeta referente a implementação de uma pauta verde em todas as áreas.  
 - 📫 Você pode entrar em contato comigo pelo email: carlao0010@hotmail.com / Twitter: @Kadu_and_you / Linkedln: www.linkedin.com/in/carlos0010
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadu-da-Silva&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-da-Silva&show_icons=true&theme=tokyonight)
