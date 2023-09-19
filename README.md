@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento web em JS e, boas práticas de planejamento de projetos
 - 💞️ Espero um dia poder participar de um grande projeto e ajudar o planeta com isso. Faço parte do grupo de voluntários de GreenpeaceABC e acredito que a tecnologia pode ajudar 
      o planeta referente a implementação de uma pauta verde em todas as áreas.  
-- 📫 Você pode entrar em contato comigo pelo email: carlao0010@hotmail.com / Twitter: @Kadu_and_you / Linkedln: www.linkedin.com/in/carlos0010
+- 📫 Você pode entrar em contato comigo pelo email: carlao0010@hotmail.com / Linkedln: www.linkedin.com/in/carlos0010
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadu-da-Silva&show_icons=true&theme=tokyonight)
 
