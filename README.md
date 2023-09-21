@@ -4,7 +4,7 @@
 
 - 👋 Oi! Sou o Carlos Eduardo, 23 anos, um dos mais novos alunos da [Trybe](https://www.betrybe.com/) e, cursando (3ºsem) Ciência da Computação na [Faculdade Descomplica](https://descomplica.com.br/faculdade/diferenciais/);
 - 🔭 Meu objetivo é trabalhar com desenvolvimento web e com a tecnologia no geral (Software, IOT, IA);
-- 🌱 Atualmente estou aprendendo desenvolvimento web Fullstack baseado em POO, planejamento de projetos, metodologias ágeis e, tudo isso sempre com a visão de otimizar o código ao máximo;
+- 🌱 Atualmente estou aprendendo desenvolvimento web Fullstack, POO, criar API's RESTful, arquitetura em camadas, metodologias ágeis e, tudo isso sempre com a visão de otimizar o código ao máximo;
 - 💞️ Espero um dia poder participar de um grande projeto e ajudar as pessoas com isso. Faço parte do grupo de voluntários do Greenpeace Brasil e acredito que a tecnologia pode ajudar 
      o planeta referente a implementação de uma pauta verde em todas as áreas.  
 - 📫 Você pode entrar em contato comigo pelas redes socias ou pelo email! Adoro discutir ideias e, se minhas experências puderem contribuir em algo, terei muito prazer em ajudar.
