@@ -41,7 +41,7 @@ Aqui estão alguns dos projetos que tenho trabalhado:
 ## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=Kadu-da-Silva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Se quiser me conhecer um pouco mais, você pode me encontrar no [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano) e [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos0010/)
+## 🔎 Se quiser me conhecer um pouco mais, você pode me encontrar no [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano) e [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos0010/)
 
 # About Me 😁
 
@@ -86,5 +86,5 @@ Here are some of the projects I have been working on:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kadu-da-Silva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## If you want to know me a little more, you can find me on [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano) and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos0010/).
+## 🔎 If you want to know me a little more, you can find me on [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano) and [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos0010/).
 
