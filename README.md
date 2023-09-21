@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos0010/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano)
 [![Email](https://img.shields.io/badge/Email-%230077B5.svg?logo=microsoft-outlook&logoColor=white)](mailto:carlao0010@hotmail.com)
+[![Slake](https://img.shields.io/badge/Slake-%230077B5.svg?logo=slake&logoColor=white)](https://trybecourse.slack.com/team/U044J4F25AR)
 
 ## 🖥️ Tecnologias
 
