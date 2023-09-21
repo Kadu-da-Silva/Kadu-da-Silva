@@ -41,6 +41,8 @@ Aqui estão alguns dos projetos que tenho trabalhado:
 ## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=Kadu-da-Silva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### Se quiser me conhecer mais um pouco pode entrar no meu [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano)
+
 <hr>
 
 # About Me 😁
@@ -85,3 +87,5 @@ Here are some of the projects I have been working on:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kadu-da-Silva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### If you want to know me a little more, you can enter my [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/kaducorinthiano)
