@@ -48,7 +48,7 @@ Aqui estão alguns dos projetos que tenho trabalhado:
 #### In English
 
 - 👋 Hi! I'm Carlos Eduardo, 23 years old, one of the youngest students at Trybe, and currently pursuing my 3rd semester in Computer Science at Faculdade Descomplica!
-- 👀 My goal is to work in web development and technology in general (Software, IoT, AI).
+- 🔭 My goal is to work in web development and technology in general (Software, IoT, AI).
 - 🌱 I'm currently learning full-stack web development Fullstack, OOP, API RESTful, project planning, agile methodologies, and always with the goal of optimizing code to the fullest.
 - 💞️ I hope to one day participate in a major project and help people with it. I'm a volunteer with Greenpeace Brazil and believe that technology can assist in implementing green initiatives in all areas.
 - 📫 You can contact me through social media or email! I love discussing ideas, and if my experiences can contribute to something, I'd be happy to help.
